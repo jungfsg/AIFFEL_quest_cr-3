@@ -2,8 +2,13 @@
 다트 코드: main.dart (lib 폴더 내에 있습니다.) 
 fastAPI 백엔드코드: main.py
 
+## 이미지
+![image](https://github.com/user-attachments/assets/1f2bcafe-eee2-40c7-8ade-9042fc0b015a)  
+
 ## 구동 영상
-https://github.com/user-attachments/assets/3e6e15bc-726e-4855-ad77-9b95e81f47d3
+https://github.com/user-attachments/assets/b785cfd5-065d-4297-9d80-69db27d265b2
+
+
 
 ## 회고 
 - LMS 연결이 답답해서 로컬로 진행하느라 초기 세팅에 시간을 조금 소비했다.
